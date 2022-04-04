@@ -14,6 +14,7 @@ dependencies:
   equatable: ^2.0.3
   flutter_bloc: ^8.0.1
   http: ^0.13.4
+  connectivity_plus: ^2.2.1
 
 dev_dependencies:
   flutter_test:
